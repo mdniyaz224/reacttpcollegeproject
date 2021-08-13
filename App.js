@@ -6,15 +6,10 @@ import Ban from './Ban';
 import Card from './Card';
 import Footer from './Footer';
 
-
-
-
-
 function App() {
   return (
   <>
   <div className="container-fluid bg-dark">
-  
   <Menu></Menu>
   <Ban></Ban>
   <br/>
