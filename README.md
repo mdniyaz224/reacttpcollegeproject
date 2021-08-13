@@ -1,2 +1,2 @@
-# reacttpcollegeproject
-this is tp college project 
+# simple project
+this is a simple project 
